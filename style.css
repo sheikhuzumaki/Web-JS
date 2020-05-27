@@ -1,0 +1,25 @@
+body{
+	font-family: helvetica-neue;
+	font-weight:normal;
+	margin: 0;
+	line-height: 1.5em;
+}
+.main-header{
+	padding: 50px;
+	text-align: center;
+}
+.container{
+	width: 30%;
+	margin: auto;
+	margin-top: 50px;
+}
+.form-group{
+	padding:100px;
+}
+
+.form label{
+	display: block;
+}
+.form{
+	padding: 2px;
+}
